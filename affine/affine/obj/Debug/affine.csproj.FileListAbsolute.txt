@@ -1,0 +1,8 @@
+C:\Users\sha pc\Desktop\affine\affine\bin\Debug\affine.exe.config
+C:\Users\sha pc\Desktop\affine\affine\bin\Debug\affine.exe
+C:\Users\sha pc\Desktop\affine\affine\bin\Debug\affine.pdb
+C:\Users\sha pc\Desktop\affine\affine\obj\Debug\affine.csproj.AssemblyReference.cache
+C:\Users\sha pc\Desktop\affine\affine\obj\Debug\affine.csproj.SuggestedBindingRedirects.cache
+C:\Users\sha pc\Desktop\affine\affine\obj\Debug\affine.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\Desktop\affine\affine\obj\Debug\affine.exe
+C:\Users\sha pc\Desktop\affine\affine\obj\Debug\affine.pdb
